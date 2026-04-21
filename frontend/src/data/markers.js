@@ -1,0 +1,42 @@
+export const markers = [
+  {
+    key: "hemoglobin",
+    label: "Hemoglobin",
+    unit: "g/dL",
+    low: 12,
+    high: 15.5,
+    placeholder: "e.g. 12.8",
+  },
+  {
+    key: "wbc",
+    label: "White Blood Cell Count",
+    unit: "K/uL",
+    low: 4,
+    high: 11,
+    placeholder: "e.g. 7.4",
+  },
+  {
+    key: "platelets",
+    label: "Platelet Count",
+    unit: "K/uL",
+    low: 150,
+    high: 450,
+    placeholder: "e.g. 240",
+  },
+  {
+    key: "glucose",
+    label: "Fasting Glucose",
+    unit: "mg/dL",
+    low: 70,
+    high: 99,
+    placeholder: "e.g. 92",
+  },
+  {
+    key: "cholesterol",
+    label: "Total Cholesterol",
+    unit: "mg/dL",
+    low: 125,
+    high: 200,
+    placeholder: "e.g. 182",
+  },
+];
