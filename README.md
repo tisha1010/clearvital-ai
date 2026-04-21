@@ -35,4 +35,4 @@ AI-powered medical report analyzer that converts complex health data into simple
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/tisha1010/clearvital-ai
